@@ -1,0 +1,27 @@
+{
+  "name": "challenge-charlie",
+  "version": "1.0.0",
+  "description": "Desafio Front-End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisSobral/challenge-charlie.git"
+  },
+  "author": "Luis Felipe Sobral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisSobral/challenge-charlie/issues"
+  },
+  "homepage": "https://github.com/LuisSobral/challenge-charlie#readme",
+  "dependencies": {
+    "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.4",
+    "@vue/compiler-sfc": "^3.2.41"
+  }
+}
